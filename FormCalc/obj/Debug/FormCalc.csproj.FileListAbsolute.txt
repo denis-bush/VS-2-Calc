@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\bin\Debug\FormCalc.exe.config
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\bin\Debug\FormCalc.exe
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\bin\Debug\FormCalc.pdb
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.exe
+c:\users\user\documents\visual studio 2013\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.pdb
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\bin\Debug\FormCalc.exe.config
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.exe
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.pdb
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\bin\Debug\FormCalc.exe
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\bin\Debug\FormCalc.pdb
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.csprojResolveAssemblyReference.cache
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.Form1.resources
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.Properties.Resources.resources
+E:\Учёба\Языки программирования\Projects\FormCalc\FormCalc\obj\Debug\FormCalc.csproj.GenerateResource.Cache
+E:\Учёба\Языки программирования\Projects\2 FormCalc\FormCalc\bin\Debug\FormCalc.exe.config
+E:\Учёба\Языки программирования\Projects\2 FormCalc\FormCalc\obj\Debug\FormCalc.exe
+E:\Учёба\Языки программирования\Projects\2 FormCalc\FormCalc\obj\Debug\FormCalc.pdb
+F:\Учёба\Языки программирования\Projects\2 FormCalc\FormCalc\bin\Debug\FormCalc.exe.config
+F:\Учёба\Языки программирования\Projects\2 FormCalc\FormCalc\obj\Debug\FormCalc.exe
+F:\Учёба\Языки программирования\Projects\2 FormCalc\FormCalc\obj\Debug\FormCalc.pdb
